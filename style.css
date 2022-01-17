@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+#header {
+  background-color: #5761d5;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #b8d0f3;
+}
+section {
+  padding-top: 5rem;
+}
